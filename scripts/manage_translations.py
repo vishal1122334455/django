@@ -3,7 +3,6 @@
 # This Python file contains utility scripts to manage Django translations.
 # It has to be run inside the django git root directory.
 #
-# The following commands are available:
 #
 # * update_catalogs: check for new strings in core and contrib catalogs, and
 #                    output how much strings are new/changed.
